@@ -1,0 +1,21 @@
+# uv 虚拟环境，不提交
+.venv/
+
+# 图表输出（可从 notebook 重新生成）
+plot_*.png
+
+# Jupyter 运行缓存
+.ipynb_checkpoints/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
